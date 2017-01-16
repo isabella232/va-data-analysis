@@ -1,0 +1,153 @@
+station_id,facility_id,name,ref_date,visn_id,position,detail,start_date
+402,99999,"HCS Maine - Togus (Augusta, ME)",2016-06-23,01,Assoc Med Ctr Director,VACANT,
+518,99999,"VAMC Bedford, MA",2016-06-23,01,Chief of Staff,VACANT,
+631,99999,HCS Central Western MA,2016-06-23,01,Chief of Staff,"BRAUN, PETER",2015-08-23
+650,99999,"VAMC Providence, RI",2016-06-23,01,Assoc Dir for Patient Care Services,"FIELDING, CORINNE",2016-06-01
+689,99999,HCS Connecticut (West Haven),2016-06-23,01,Assoc Dir for Patient Care Services,"RADOVICH, CAROL",2016-06-02
+689,99999,HCS Connecticut (West Haven),2016-06-23,01,Asst Med Ctr Director,VACANT,
+528,99999,HCS Western NY (Buffalo),2016-06-23,02,Asst Med Ctr Director,"CORDES, J",2016-04-25
+528A5,99999,"VAMC Canandaigua, NY",2016-06-23,02,Med Ctr Director,"SWARTZ, MICHAEL",2015-06-01
+528A5,99999,"VAMC Canandaigua, NY",2016-06-23,02,Assoc Med Ctr Director,"PRICE, DAVID",2016-03-06
+528A8,99999,"VAMC Albany, NY",2016-06-23,02,Med Ctr Director,"GUERMONPREZ, D",2015-12-11
+528A8,99999,"VAMC Albany, NY",2016-06-23,02,Assoc Med Ctr Director,"OWENS, MARGARET",2016-03-06
+460,99999,"VAMC Wilmington, DE",2016-06-23,04,Assoc Med Ctr Director,VACANT,
+503,99999,"VAMC Altoona, PA",2016-06-23,04,Med Ctr Director,"SHARON, JOSEPH",2016-03-27
+540,99999,"VAMC Clarksburg, WV",2016-06-23,04,Assoc Med Ctr Director,VACANT,
+540,99999,"VAMC Clarksburg, WV",2016-06-23,04,Chief of Staff,"DEVABHAKTUNI, PRAMODA",2015-10-01
+542,99999,"VAMC Coatesville, PA",2016-06-23,04,Med Ctr Director,"SIVEK, CARLA",2016-05-05
+642,99999,"VAMC Philadelphia, PA",2016-06-23,04,Chief of Staff,VACANT,
+646,99999,"HCS Pittsburgh, PA",2016-06-23,04,Assoc Med Ctr Director,"PETRAZZI, ALAN",2016-02-07
+693,99999,"VAMC Wilkes-Barre, PA",2016-06-23,04,Med Ctr Director,"ALI, MIRZA",2016-01-10
+613,99999,"VAMC Martinsburg, WV",2016-06-23,05,Assoc Dir for Patient Care Services,"SULLIVAN, SANDRA",2015-12-15
+517,99999,"VAMC Beckley, WV",2016-06-23,06,Med Ctr Director,"BOCHICCHIO, DANIEL",2016-01-11
+590,99999,"VAMC Hampton, VA",2016-06-23,06,Chief of Staff,"HANKINS, PRISCILLA",2016-03-05
+590,99999,"VAMC Hampton, VA",2016-06-23,06,Assoc Dir for Patient Care Services,"HAMPTON, VERNADINE",2016-05-01
+637,99999,"VAMC Asheville, NC",2016-06-23,06,Assoc Med Ctr Director,VACANT,
+652,99999,"VAMC Richmond, NC",2016-06-23,06,Assoc Dir for Patient Care Services,"LYNE, MARJORIE",2016-01-04
+652,99999,"VAMC Richmond, NC",2016-06-23,06,Asst Med Ctr Director,VACANT,
+658,99999,"VAMC Salem, VA",2016-06-23,06,Med Ctr Director,"STACKHOUSE, REBECCA",2016-02-13
+658,99999,"VAMC Salem, VA",2016-06-23,06,Assoc Med Ctr Director,"TALLEY, ROLAND",2016-05-09
+659,99999,"VAMC Salisbury, NC",2016-06-23,06,Assoc Dir for Patient Care Services,"PRITCHARD, JENNIFER",2016-05-01
+508,99999,"VAMC Atlanta, GA (Decatur)",2016-06-23,07,Med Ctr Director,"JACKSON, ROBIN",2016-05-25
+521,99999,"VAMC Birmingham, AL",2016-06-23,07,Med Ctr Director,"HARPER, WILLIAM",2016-05-25
+521,99999,"VAMC Birmingham, AL",2016-06-23,07,Asst Med Ctr Director,"MILLER, GARTH",2016-05-31
+619,99999,HCS Central AL (Montgomery),2016-06-23,07,Med Ctr Director,"BOCKELMAN, PAUL",2016-01-23
+619,99999,HCS Central AL (Montgomery),2016-06-23,07,Assoc Med Ctr Director,VACANT,
+679,99999,"VAMC Tuscaloosa, AL",2016-06-23,07,Assoc Med Ctr Director,"RIDINGS, KATHY",2016-03-06
+516,99999,"VAMC Bay Pines, FL",2016-06-23,08,Chief of Staff,"PARK, HENRY",2016-02-21
+548,99999,"VAMC West Palm Beach, FL",2016-06-23,08,Assoc Med Ctr Director,"COMBS, SHELLEY",2016-03-28
+548,99999,"VAMC West Palm Beach, FL",2016-06-23,08,Assoc Dir for Patient Care Services,"LANG, CYNTHIA",2016-03-03
+573,99999,"HCS North Florida-South Georgia (Gainsville, FL)",2016-06-23,08,Dep Med Ctr Director,"WILKES, MAUREEN",2016-05-09
+573,99999,"HCS North Florida-South Georgia (Gainsville, FL)",2016-06-23,08,Assoc Med Ctr Director,"KORZEC, MARION",2016-05-09
+573,99999,"HCS North Florida-South Georgia (Gainsville, FL)",2016-06-23,08,Chief of Staff,"WYMER, DAVID",2016-03-24
+673,99999,"VAMC Tampa, FL",2016-06-23,08,Assoc Med Ctr Director,VACANT,
+675,99999,"VAMC Orlando, FL",2016-06-23,08,Assoc Med Ctr Director,"ITEBEJAC, IVAN",2016-06-13
+614,99999,"VAMC Memphis, TN",2016-06-23,09,Med Ctr Director,"MILLS, WILLIAM",2016-02-25
+614,99999,"VAMC Memphis, TN",2016-06-23,09,Assoc Med Ctr Director,VACANT,
+621,99999,"VAMC Mountain Home, TN",2016-06-23,09,Med Ctr Director,"SNYDER, DANIEL",2016-02-01
+626,99999,HCS TN Valley (Nashville),2016-06-23,09,Med Ctr Director,VACANT,
+626,99999,HCS TN Valley (Nashville),2016-06-23,09,Assoc Med Ctr Director,VACANT,
+626,99999,HCS TN Valley (Nashville),2016-06-23,09,Chief of Staff,VACANT,
+539,99999,"VAMC Cincinnati, OH",2016-06-23,10,Med Ctr Director,"COSTIE, GLENN",2016-04-18
+539,99999,"VAMC Cincinnati, OH",2016-06-23,10,Chief of Staff,"PANOS, RALPH",2016-02-25
+541,99999,"VAMC Cleveland, OH",2016-06-23,10,Assoc Med Ctr Director,VACANT,
+552,99999,"VAMC Dayton, OH",2016-06-23,10,Med Ctr Director,"MURDOCK, MARK",2016-04-18
+552,99999,"VAMC Dayton, OH",2016-06-23,10,Assoc Med Ctr Director,"KIRK, PHILIP",2016-05-09
+506,99999,"VAMC Ann Arbor, MI",2016-06-23,11,Med Ctr Director,"YOUNG, ERIC",2016-03-06
+506,99999,"VAMC Ann Arbor, MI",2016-06-23,11,Assoc Med Ctr Director,"KERR, CATHERINE",2016-01-04
+506,99999,"VAMC Ann Arbor, MI",2016-06-23,11,Chief of Staff,"LYPSON, MONICA",2016-03-06
+550,99999,"VAMC Danville, IL",2016-06-23,11,Chief of Staff,VACANT,
+553,99999,"VAMC Detroit, MI",2016-06-23,11,Assoc Med Ctr Director,"OWENS-WARREN, VANASSA",2016-02-17
+583,99999,"VAMC Indianapolis, IN",2016-06-23,11,Assoc Med Ctr Director,"LEE-SELLERS, CATHY",2015-08-03
+583,99999,"VAMC Indianapolis, IN",2016-06-23,11,Asst Med Ctr Director,"THAYER, DEBRA",2015-12-15
+610,99999,HCS Northern Indiana (Ft. Wayne),2016-06-23,11,Med Ctr Director,VACANT,
+610,99999,HCS Northern Indiana (Ft. Wayne),2016-06-23,11,Chief of Staff,VACANT,
+655,99999,"VAMC Saginaw, MI",2016-06-23,11,Med Ctr Director,"SINGH, HIMANSHU",2015-01-04
+655,99999,"VAMC Saginaw, MI",2016-06-23,11,Assoc Med Ctr Director,VACANT,
+537,99999,"VAMC Chicago, IL",2016-06-23,12,Med Ctr Director,"MCLAIN, JAMES",2016-05-22
+537,99999,"VAMC Chicago, IL",2016-06-23,12,Chief of Staff,"BRUNNER, JAMES",2016-01-30
+537,99999,"VAMC Chicago, IL",2016-06-23,12,Asst Med Ctr Director,"GLEASON, PATRICK",2016-01-16
+556,99999,"FHCC Captain James A. Lovell (N Chicago, IL)",2016-06-23,12,Assoc Med Ctr Director,VACANT,
+556,99999,"FHCC Captain James A. Lovell (N Chicago, IL)",2016-06-23,12,Asst Med Ctr Director,"SEBESTA, GLENN",2016-02-07
+578,99999,"VAMC Hines, IL",2016-06-23,12,Med Ctr Director,"MAGILL, MARC",2016-05-29
+578,99999,"VAMC Hines, IL",2016-06-23,12,Chief of Staff,"ADAMS, ELAINE",2016-01-30
+578,99999,"VAMC Hines, IL",2016-06-23,12,Asst Med Ctr Director,VACANT,
+607,99999,"VAMC Madison, WI",2016-06-23,12,Assoc Med Ctr Director,"KLECKNER, CHRISTINE",2015-10-18
+607,99999,"VAMC Madison, WI",2016-06-23,12,Asst Med Ctr Director,"HAWKINS, AMANDA",2015-10-26
+676,99999,"VAMC Tomah, WI",2016-06-23,12,Med Ctr Director,"BRAHM, VICTORIA",2015-10-04
+676,99999,"VAMC Tomah, WI",2016-06-23,12,Assoc Med Ctr Director,"EVANSON, JEFFREY",2015-06-14
+676,99999,"VAMC Tomah, WI",2016-06-23,12,Chief of Staff,VACANT,
+695,99999,"VAMC Milwaukee, WI",2016-06-23,12,Med Ctr Director,VACANT,
+695,99999,"VAMC Milwaukee, WI",2016-06-23,12,Dep Med Ctr Director,"DEWITT, DREW",2016-03-01
+589,99999,"VAMC Kansas City, MO",2016-06-23,15,Assoc Dir for Patient Care Services,"WHEELER, BRUCE",2015-05-03
+589,99999,"VAMC Kansas City, MO",2016-06-23,15,Asst Med Ctr Director,"BIERI, BRYAN",2015-09-08
+589A4   ,99999,"VAMC Columbia, MO",2016-06-23,15,Med Ctr Director,VACANT,
+589A5,99999,HCS Eastern Kansas,2016-06-23,15,Chief of Staff,VACANT,
+589A5,99999,HCS Eastern Kansas,2016-06-23,15,Asst Med Ctr Director,VACANT,
+589A7   ,99999,"VAMC Wichita, KS",2016-06-23,15,Chief of Staff,VACANT,
+657,99999,"HCS St. Louis, MO",2016-06-23,15,Med Ctr Director,"REPKO, KEITH",2016-01-03
+657,99999,"HCS St. Louis, MO",2016-06-23,15,Dep Med Ctr Director (SES),"BARLAGE, SETH",2016-01-30
+657,99999,"HCS St. Louis, MO",2016-06-23,15,Chief of Staff,"ADEGBOYEGA, PATRICK",2015-12-04
+657A4,99999,"VAMC Poplar Bluff, MO",2016-06-23,15,Assoc Med Ctr Director,"JOHNSON, LIBBY",2016-01-03
+657A5,99999,"VAMC Marion, IL",2016-06-23,15,Med Ctr Director,"KEHUS, FRANK",2016-02-19
+502,99999,"VAMC Alexandria, LA",2016-06-23,16,Assoc Dir for Patient Care Services,"TADEMY, ULLA",2016-01-29
+520,99999,"HCS Gulf Coast Veterans (Biloxi, MS)",2016-06-23,16,Chief of Staff,"ROBERTS, SUSAN",2016-05-01
+564,99999,"HCS of the Ozarks, Fayetteville, AR",2016-06-23,16,Assoc Med Ctr Director,"JACKSON, YOLANDA",2015-12-30
+580,99999,"VAMC Houston, TX",2016-06-23,16,Med Ctr Director,VACANT,
+586,99999,"VAMC Jackson, MS",2016-06-23,16,Chief of Staff,"SPENCER, JESSIE",2015-12-07
+586,99999,"VAMC Jackson, MS",2016-06-23,16,Asst Med Ctr Director,"LANE, PATRICIA",2016-03-09
+598,99999,HCS Central Arkansas (Little Rock),2016-06-23,16,Dep Med Ctr Director,VACANT,
+598,99999,HCS Central Arkansas (Little Rock),2016-06-23,16,Chief of Staff,VACANT,
+598,99999,HCS Central Arkansas (Little Rock),2016-06-23,16,Assoc Dir for Patient Care Services,"SCOTT, KAREN",2016-02-01
+635,99999,"HCS Oklahoma City, OK",2016-06-23,16,Asst Med Ctr Director,VACANT,
+667,99999,"VAMC Shreveport, LA",2016-06-23,16,Assoc Med Ctr Director,"CENKO, JOSEPH",2016-02-01
+549,99999,HCS North Texas (Dallas),2016-06-23,17,Assoc Med Ctr Director,VACANT,
+549,99999,HCS North Texas (Dallas),2016-06-23,17,Assoc Dir for Patient Care Services,VACANT,
+674,99999,HCS Central Texas (Temple),2016-06-23,17,Med Ctr Director,"LLOYD, RUSSELL",2016-01-10
+674,99999,HCS Central Texas (Temple),2016-06-23,17,Asst Med Ctr Director,VACANT,
+740,99999,HCS Texas Valley Coastal Bend (Harlingen),2016-06-23,17,Med Ctr Director,"PEREZ, JOSE",2015-11-15
+501,99999,HCS New Mexico (Albuquerque),2016-06-23,18,Assoc Med Ctr Director,VACANT,
+501,99999,HCS New Mexico (Albuquerque),2016-06-23,18,Chief of Staff,"EMELITY, DAVID",2016-04-01
+501,99999,HCS New Mexico (Albuquerque),2016-06-23,18,Asst Med Ctr Director,"DOCTOR, GERALD",2015-11-09
+519,99999,HCS West Texas HCS (Big Spring),2016-06-23,18,Med Ctr Director,"JANGDHARI, KALAUTIE",2015-11-01
+519,99999,HCS West Texas HCS (Big Spring),2016-06-23,18,Assoc Dir for Patient Care Services,VACANT,
+644,99999,"HCS Phoenix, AZ",2016-06-23,18,Assoc Med Ctr Director,"BAKER, LINETTE",2016-05-09
+644,99999,"HCS Phoenix, AZ",2016-06-23,18,Chief of Staff,VACANT,
+649,99999,HCS Northern AZ (Prescott),2016-06-23,18,Med Ctr Director,"PIATT, MALCOLM",2015-03-01
+678,99999,HCS Southern AZ (Tucson),2016-06-23,18,Med Ctr Director,"GUTOWSKI, JENNIFER",2016-01-13
+678,99999,HCS Southern AZ (Tucson),2016-06-23,18,Assoc Med Ctr Director,"LANDWEHR, KATIE",2016-01-07
+678,99999,HCS Southern AZ (Tucson),2016-06-23,18,Chief of Staff,VACANT,
+678,99999,HCS Southern AZ (Tucson),2016-06-23,18,Asst Med Ctr Director,"MUNGOVAN, KATHLEEN",2016-01-07
+756,99999,"HCS El Paso, TX",2016-06-23,18,Med Ctr Director,"GRAHAM, GAIL",2015-06-28
+436,99999,HCS Montana (Ft Harrison),2016-06-23,19,Assoc Med Ctr Director,"HAMILTON, LISA",2016-02-16
+436,99999,HCS Montana (Ft Harrison),2016-06-23,19,Chief of Staff,"ATWATER, BENJAMIN",2015-08-23
+442,99999,"VAMC Cheyenne, WY",2016-06-23,19,Med Ctr Director,"ROBERTS, PAUL",2015-10-01
+554,99999,HCS Eastern CO (Denver),2016-06-23,19,Asst Med Ctr Director,VACANT,
+575,99999,"VAMC Grand Junction, CO",2016-06-23,19,Chief of Staff,"GINJUPALLI, SRINIVAS",2016-03-07
+575,99999,"VAMC Grand Junction, CO",2016-06-23,19,Assoc Dir for Patient Care Services,"MOUNTFORT, MICHELLE",2015-07-11
+666,99999,"VAMC Sheridan, WY",2016-06-23,19,Chief of Staff,VACANT,
+463,99999,HCS Alaska (Anchorage),2016-06-23,20,Med Ctr Director,"BOYLE, LINDA",2016-03-27
+531,99999,"VAMC Boise,ID",2016-06-23,20,Chief of Staff,VACANT,
+648,99999,"HCS Portland, OR",2016-06-23,20,Med Ctr Director,VACANT,
+663,99999,"HCS Puget Sound, WA",2016-06-23,20,Med Ctr Director,"TADYCH, MICHAEL",2016-02-01
+663,99999,"HCS Puget Sound, WA",2016-06-23,20,Chief of Staff,VACANT,
+668,99999,"VAMC Spokane, WA",2016-06-23,20,Assoc Med Ctr Director,VACANT,
+668,99999,"VAMC Spokane, WA",2016-06-23,20,Chief of Staff,"NYE, SCOTT",2014-11-26
+687,99999,"VAMC Walla Walla, WA",2016-06-23,20,Assoc Dir for Patient Care Services,VACANT,
+459,99999,"HCS Pacific Islands (Honolulu, HI)",2016-06-23,21,Med Ctr Director,"BAGBY, TONIA",2016-03-14
+612,99999,HCS Northern California (Mather),2016-06-23,21,Assoc Med Ctr Director,VACANT,
+640,99999,"HCS Palo Alto, CA",2016-06-23,21,Med Ctr Director,"FITZGERALD, THOMAS",2016-06-13
+654,99999,HCS Sierra Nevada (Reno),2016-06-23,21,Assoc Med Ctr Director,VACANT,
+662,99999,"HCS San Francisco, CA",2016-06-23,21,Dep Med Ctr Director,VACANT,
+664,99999,"HCS San Diego, CA ",2016-06-23,22,Med Ctr Director,"SMITH, ROBERT",2016-05-16
+664,99999,"HCS San Diego, CA ",2016-06-23,22,Chief of Staff,"KIM, KATHLEEN",2015-09-06
+664,99999,"HCS San Diego, CA ",2016-06-23,22,Assoc Dir for Patient Care Services,VACANT,
+691,99999,"HCS Greater Los Angeles, CA",2016-06-23,22,Exec Director,VACANT,
+691,99999,"HCS Greater Los Angeles, CA",2016-06-23,22,Chief of Staff,VACANT,
+691,99999,"HCS Greater Los Angeles, CA",2016-06-23,22,Asst Med Ctr Director,"BLACKWELL, KARI",2016-03-06
+618,99999,"HCS Minneapolis, MN",2016-06-23,23,Med Ctr Director,"THIELEN, KURT",2016-02-01
+636,99999,"HCS Nebraska-Western Iowa (Omaha, NE)",2016-06-23,23,Assoc Med Ctr Director,VACANT,
+636,99999,"HCS Nebraska-Western Iowa (Omaha, NE)",2016-06-23,23,Chief of Staff,"BITTNER, MARVIN",2016-04-03
+636A6,99999,HCS Central Iowa (Des Moines),2016-06-23,23,Med Ctr Director,"MARTIN, SUSAN",2016-02-02
+636A6,99999,HCS Central Iowa (Des Moines),2016-06-23,23,Assoc Med Ctr Director,"CURNES, LISA",2015-10-04
+656,99999,"HCS St. Cloud, MN",2016-06-23,23,Med Ctr Director,VACANT,
